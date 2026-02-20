@@ -46,7 +46,6 @@ files:
   - template.tex
   - preprint.sty
 packages:
-  - amsthm
   - authblk
   - background
   - fancyhdr
@@ -55,11 +54,9 @@ packages:
   - hyperref
   - inputenc
   - lineno
-  - lipsum
   - natbib
   - newfloat
   - preprint
-  - scalerel
   - sidecap
   - tikz
   - times
