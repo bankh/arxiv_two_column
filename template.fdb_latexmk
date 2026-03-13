@@ -1,7 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1771600697 "template.tex" "template.pdf" "template" 1771600698
+["pdflatex"] 1773433026 "/home/ubuntu/csu_phd/Paper-IDETC2026-Design-OS/LaTeX/arXiv-template/template.tex" "template.pdf" "template" 1773433026
   "/etc/texmf/web2c/texmf.cnf" 1747929451 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/ubuntu/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt0900.600pk" 1769661414 17492 882fe573395805d229bef3191a145970 ""
   "/home/ubuntu/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk" 1768506633 20008 028318027fc1aba32b439a648828e52e ""
+  "/home/ubuntu/csu_phd/Paper-IDETC2026-Design-OS/LaTeX/arXiv-template/template.tex" 1773432892 7826 44ac8b0020f85f7aa9d6e43b8b87d335 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvb8r.tfm" 1136768653 4484 b828043cbd581d289d955903c1339981 ""
@@ -212,10 +214,10 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1771191593 4160898 5d4463af80d5d8c259e2486d30167833 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1771191596 1532672 16e75c32e3b8ae8df2bb1f98df3e956a ""
-  "preprint.sty" 1771599898 8642 a26598333153ccec21289d688ad72ec7 ""
-  "template.aux" 1771600698 2383 91c442d94fa4abb2f093cf721923f191 "pdflatex"
-  "template.out" 1771600698 1177 d1972842ba92a4a4944a364218af76ab "pdflatex"
-  "template.tex" 1771600635 7701 6275310d121630b3ccc8623ba3ed3864 ""
+  "preprint.sty" 1773432907 8642 d85076895086078f638360a80296abe5 ""
+  "template.aux" 1773433026 2383 91c442d94fa4abb2f093cf721923f191 "pdflatex"
+  "template.out" 1773433026 1177 d1972842ba92a4a4944a364218af76ab "pdflatex"
+  "template.tex" 1773432892 7826 44ac8b0020f85f7aa9d6e43b8b87d335 ""
   (generated)
   "template.aux"
   "template.log"

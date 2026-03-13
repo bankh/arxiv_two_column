@@ -93,10 +93,10 @@
 \usepackage{authblk}
 \renewcommand*{\Authfont}{\bfseries}
 
-\author[1\thanks{\tt{author@university.edu}}]{Author Name\scholarA}
+\author[1]{Author Name\scholarA\textsuperscript{,*}}
 \author[1]{Second Author Name\scholarB}
 
-\affil[1]{Department of Systems Engineering, Colorado State University, Fort Collins, CO 80523, USA}
+\affil[1]{Department Name, University Name, City, State ZIP, Country}
 
 %%%%%%%%%%%%%%    Front matter    %%%%%%%%%%%%%%
 \begin{document}
@@ -114,6 +114,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibu
 
   \end{@twocolumnfalse} %
 ] %
+\renewcommand{\thefootnote}{}
+\footnotetext{*Corresponding author: \href{mailto:email@example.com}{\tt{email@example.com}}}
+\renewcommand{\thefootnote}{\arabic{footnote}}
 
 %%%%%%%%%%%%%%%  Main text   %%%%%%%%%%%%%%%
 % \linenumbers
